@@ -8,7 +8,7 @@
     "i18next": "^17.0.18",
     "i18next-browser-languagedetector": "^4.0.0",
     "immutable": "^4.0.0-rc.12",
-    "jquery": "^1.11.3",
+    "jquery": "^3.5.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",
